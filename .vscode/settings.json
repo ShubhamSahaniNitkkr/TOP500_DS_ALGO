@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "map": "cpp",
+        "unordered_set": "cpp",
+        "hashtable": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp"
+    }
+}
